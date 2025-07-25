@@ -29,3 +29,13 @@ designed to showcase my work, skills, and identity as a Full Stack Developer.
 - Projects  
 - Blog  
 - Contact  
+
+
+1) stages: 
+
+Structure, collecting images. 
+Getting style: JAPAN ZEN style: 
+
+2) creating Structure, Home, styles. 
+
+3) 
